@@ -2,17 +2,11 @@
 <div align="center">
 
 ```
-╔══════════════════════════════════════════════════════════╗
-║                                                          ║
-║      ███████╗ █████╗ ███╗   ██╗     ██╗ █████╗ ██╗██╗  ║
-║      ██╔════╝██╔══██╗████╗  ██║     ██║██╔══██╗╚██╔╝██║  ║
-║      ███████╗███████║██╔██╗ ██║     ██║███████║ ╚██╔╝██║  ║
-║      ╚════██║██╔══██║██║╚██╗██║██   ██║██╔══██║ ██╔╝╚═╝  ║
-║      ███████║██║  ██║██║ ╚████║╚█████╔╝██║  ██║██╔╝  ██╗  ║
-║      ╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝ ╚════╝ ╚═╝  ╚═╝╚═╝   ╚═╝  ║
-║                                                          ║
-║            AI / ML Engineer · India                      ║
-╚══════════════════════════════════════════════════════════╝
+
+                                                         
+                SANJAY S
+         AI / ML Engineer · India                      
+
 ```
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanjay-s-5a1528303)
@@ -23,7 +17,7 @@
 
 ---
 
-## `❯ python3 sanjay.py`
+
 
 ```python
 {
@@ -39,13 +33,11 @@
 
 ---
 
-## `// About Me`
-
+ABOUT ME
 > Versatile AI Engineer with a strong foundation in **Machine Learning**, **Deep Learning**, **Computer Vision**, and **Generative AI** systems. Experienced in building end-to-end AI solutions — from data preprocessing and model training to deployment and workflow automation. Skilled in Python, TensorFlow, PyTorch, and Scikit-Learn with knowledge of embeddings, vector search, and scalable AI application development.
 
 ---
 
-## `// Tech Stack`
 
 **AI & Deep Learning**
 
