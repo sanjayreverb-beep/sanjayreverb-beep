@@ -6,7 +6,7 @@
                                                          
                 SANJAY S
 
-           AI / ML Engineer · India                      
+                     AI / ML Engineer · India                      
 
 ```
 
